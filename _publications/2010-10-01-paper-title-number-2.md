@@ -1,15 +1,23 @@
 ---
-title: "Paper Title Number 2"
+title: "Representing motion as a sequence of latent primitives, a flexible approach for human motion modelling"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2010-10-01-Representing-motion
+excerpt: 'This paper proposes a new representation of human body motion which encodes a full motion in a sequence of latent motion primitives.'
+date: 2022-16-09
+venue: 'Preprint'
+paperurl: 'https://hal.science/hal-03715820v2'
+citation: 'Marsot, Mathieu and Wuhrer, Stefanie and Franco, Jean-Sebastien and Olivier, Anne Hélène. (2022). &quot;Representing motion as a sequence of latent primitives, a flexible approach for human motion modelling Number 2.&quot; <i>PrePrint</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper proposes a new representation of human body motion which encodes a full motion in a sequence of latent motion primitives.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://hal.science/hal-03715820v2)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: 
+
+```
+@article{marsot2022representing,
+  title={Representing motion as a sequence of latent primitives, a flexible approach for human motion modelling},
+  author={Marsot, Mathieu and Wuhrer, Stefanie and Franco, Jean-Sebastien and Olivier, Anne H{\'e}l{\`e}ne},
+  year={2022}
+}
+```
