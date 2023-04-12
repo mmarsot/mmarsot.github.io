@@ -1,15 +1,23 @@
 ---
-title: "Paper Title Number 3"
+title: "Correspondence-free online human motion retargeting"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2015-10-01-paper-Correspondence-free
+excerpt: 'This paper presents a novel data-driven framework for unsupervised human motion retargeting which animates a target body shape with a source motion. This allows to retarget motions between different characters by animating a target subject with a motion of a source subject.'
+date: 2023-02-02
+venue: 'Preprint'
+paperurl: 'https://hal.inria.fr/hal-03970689v1/file/Motion_retargeting_CVPR_2023.pdf'
+citation: 'Marsot, Mathieu and Rekik, Rim and Wuhrer, Stefanie and Franco, Jean-Sébastien and Olivier, Anne-Hélène. (2015). &quot;Correspondence-free online human motion retargeting.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper presents a novel data-driven framework for unsupervised human motion retargeting which animates a target body shape with a source motion. This allows to retarget motions between different characters by animating a target subject with a motion of a source subject.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://hal.inria.fr/hal-03970689v1/file/Motion_retargeting_CVPR_2023.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: 
+```
+@article{marsot2023correspondence,
+  title={Correspondence-free online human motion retargeting},
+  author={Marsot, Mathieu and Rekik, Rim and Wuhrer, Stefanie and Franco, Jean-S{\'e}bastien and Olivier, Anne-H{\'e}l{\`e}ne},
+  journal={arXiv preprint arXiv:2302.00556},
+  year={2023}
+}
+```
