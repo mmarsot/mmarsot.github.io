@@ -1,7 +1,7 @@
 ---
 title: "An adaptive pig face recognition approach using Convolutional Neural Networks"
 collection: publications
-permalink: /publication/2022-09-16-An-adaptive-pig-face-recognition-approach
+permalink: /publication/2022-06-01-An-adaptive-pig-face-recognition-approach
 date: 2020-06-01
 venue: 'Computers and Electronics in Agriculture'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0168169920300673'
