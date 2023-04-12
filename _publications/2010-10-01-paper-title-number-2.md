@@ -6,7 +6,7 @@ excerpt: 'This paper proposes a new representation of human body motion which en
 date: 2022-09-16
 venue: 'HAL'
 paperurl: 'https://hal.science/hal-03715820v2'
-citation: 'Marsot, Mathieu and Wuhrer, Stefanie and Franco, Jean-Sebastien and Olivier, Anne Hélène. (2022). &quot;Representing motion as a sequence of latent primitives, a flexible approach for human motion modelling Number 2.&quot; <i>PrePrint</i>. 1(2).'
+citation: 'Marsot, Mathieu and Wuhrer, Stefanie and Franco, Jean-Sebastien and Olivier, Anne Hélène. (2022). &quot;Representing motion as a sequence of latent primitives, a flexible approach for human motion modelling Number 2.&quot; <i>HAL</i>. 1(2).'
 ---
 This paper proposes a new representation of human body motion which encodes a full motion in a sequence of latent motion primitives.
 
