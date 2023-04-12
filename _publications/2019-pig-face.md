@@ -1,4 +1,3 @@
-
 ---
 title: "An adaptive pig face recognition approach using Convolutional Neural Networks"
 collection: publications
